@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate on open sources projects to learn.
 - 📫 How to reach me on https://www.linkedin.com/in/roni-serra-009a9751/
 
+- Here my top langs: 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk&layout=compact)](https://github.com/falluk/falluk/README.md)
 
 
 
