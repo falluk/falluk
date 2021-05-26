@@ -7,7 +7,7 @@
 
 - Here my top langs: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<falluk>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
