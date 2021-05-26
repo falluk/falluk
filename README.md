@@ -1,25 +1,10 @@
 # Seja bem vindo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!--
-**falluk/falluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Energisa SA and work to automatize and transform with tecnology.
+- 🌱 I’m currently learning Node Js - React Js 
+- 👯 I’m looking to collaborate on open sources projects to learn.
+- 📫 How to reach me on https://www.linkedin.com/in/roni-serra-009a9751/
 
 
 
 
-<!-- Actual text -->
-
-Você pode encontrar mais detalhes em https://www.linkedin.com/in/roni-serra-009a9751/
