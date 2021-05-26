@@ -7,7 +7,7 @@
 
 - Here my top langs: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk=compact)](https://github.com/falluk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk)](https://github.com/falluk)
 
 
 
