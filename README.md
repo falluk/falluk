@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk)](https://github.com/falluk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falluk)](https://github.com/falluk)
 
 
 <!-- Actual text -->
